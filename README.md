@@ -1,2 +1,6 @@
-# K-Means_Image_Segmentation
-Image segmentation using K-Means from scratch for pattern recognition class assignment
+# K-Means Image Segmentation
+Image Segmentation using K-Means for Pattern Recognition Class
+<br />
+<br />
+# Author
+Haekal Rizky Yulianto
